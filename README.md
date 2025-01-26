@@ -59,6 +59,7 @@ We produced three videos showcasing different compositing techniques:
 - [Static Background - Coco](https://drive.google.com/file/d/1btYXPbbhxbJtxPz7g0feauZbb5qrAGPC/view?usp=sharing)
 - [Lab Animation](https://drive.google.com/file/d/1-oNB3QCr6DFAIDlH0BlLm4EbZfjI1Keo/view?usp=sharing)
 - [Hand Walk with Motion Tracking](https://drive.google.com/file/d/1HnCMqkthk1iXobBckHt2YeRYF5w09oI8/view?usp=sharing)
+- [Final Video Report](https://drive.google.com/file/d/1PjrMen65VVkQT8tV0t92loe3bDGMQGVv/view?usp=drive_link)
 
 ## Contributions
 - Alberto Gusmeroli

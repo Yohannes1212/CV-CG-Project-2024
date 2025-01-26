@@ -60,8 +60,7 @@ We produced three videos showcasing different compositing techniques:
 - [Lab Animation](https://drive.google.com/file/d/1-oNB3QCr6DFAIDlH0BlLm4EbZfjI1Keo/view?usp=sharing)
 - [Hand Walk with Motion Tracking](https://drive.google.com/file/d/1HnCMqkthk1iXobBckHt2YeRYF5w09oI8/view?usp=sharing)
 
-## Conclusion
-This project successfully demonstrated the use of motion capture and camera tracking techniques to create realistic animated performances. While there are limitations, particularly in hand tracking and compositing accuracy, the results showcase the potential of integrating motion capture technology with animation and real-world footage.
-
-For further details or to collaborate, feel free to contact us!
-
+## Contributions
+- Alberto Gusmeroli
+- Raffaella Perna
+- Yohannes N. Zewodie

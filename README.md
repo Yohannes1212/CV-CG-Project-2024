@@ -65,9 +65,9 @@ We produced three videos showcasing different compositing techniques:
   - Camera motion tracking was constrained by smartphone camera quality.
 
 ## Video Links
-- [Static Background - Coco](https://drive.google.com/open?id=1oXqrIyWFxud3ANy0RwxZl7gLI2DL3CoF)
-- [Lab Animation](https://drive.google.com/open?id=1jHLMiKImHm36xN7NJFEOsI4GYL9qZzbX)
-- [Hand Walk with Motion Tracking](https://drive.google.com/open?id=1Sx3i5IR66V3tTN4D8HekCtMqTNtvnp5c)
+- [Static Background - Coco](https://drive.google.com/file/d/1btYXPbbhxbJtxPz7g0feauZbb5qrAGPC/view?usp=sharing)
+- [Lab Animation](https://drive.google.com/file/d/1-oNB3QCr6DFAIDlH0BlLm4EbZfjI1Keo/view?usp=sharing)
+- [Hand Walk with Motion Tracking](https://drive.google.com/file/d/1HnCMqkthk1iXobBckHt2YeRYF5w09oI8/view?usp=sharing)
 
 ## Conclusion
 This project successfully demonstrated the use of motion capture and camera tracking techniques to create realistic animated performances. While there are limitations, particularly in hand tracking and compositing accuracy, the results showcase the potential of integrating motion capture technology with animation and real-world footage.

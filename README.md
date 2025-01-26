@@ -1,4 +1,4 @@
-# Motion Capture and Video Tracking for Realistic Rompositing
+# Motion Capture and Video Tracking for Realistic Compositing
 
 ## Project Overview
 This project involves animating and compositing motion capture actor performances using OptiTrack and camera motion tracking. We aimed to create realistic animations by recording 3D performances, retargeting them to animated characters, and compositing them into lifelike environments. Additionally, we utilized camera motion tracking to blend animated characters into moving video footage.
@@ -36,12 +36,12 @@ This project involves animating and compositing motion capture actor performance
 - Addressed challenges like clipping and slipping due to proportion differences between the actor and character model.
 
 ### Perspective and Lighting
-- Used fSpy to match Blender’s camera perspective with background images.
+- Used fSpy to match Blender's camera perspective with background images.
 - Manually adjusted light sources in Blender to replicate real-world lighting.
 
 ### Camera Motion Tracking
 - Recorded moving footage behind the Povo 0 building.
-- Used Blender’s motion tracking workspace to:
+- Used Blender's motion tracking workspace to:
   - Track features in video frames.
   - Estimate camera motion and align it with the 3D scene.
 - Adjusted scene scale and orientation for accurate compositing.
@@ -54,15 +54,6 @@ We produced three videos showcasing different compositing techniques:
    - Used a motion capture lab photo as a background.
 3. **Moving Camera Video**:
    - Composited animation over a video with camera motion tracking.
-
-### Observations
-- **Strengths**:
-  - Realistic motion capture for complex movements like handstands.
-  - Effective integration of characters into varied environments.
-- **Limitations**:
-  - Proportion mismatches caused clipping and slipping.
-  - Limited realism in hand movements due to insufficient markers.
-  - Camera motion tracking was constrained by smartphone camera quality.
 
 ## Video Links
 - [Static Background - Coco](https://drive.google.com/file/d/1btYXPbbhxbJtxPz7g0feauZbb5qrAGPC/view?usp=sharing)

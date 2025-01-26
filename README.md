@@ -1,4 +1,4 @@
-# Motion Capture Project
+# Motion Capture and Video Tracking for Realistic Rompositing
 
 ## Project Overview
 This project involves animating and compositing motion capture actor performances using OptiTrack and camera motion tracking. We aimed to create realistic animations by recording 3D performances, retargeting them to animated characters, and compositing them into lifelike environments. Additionally, we utilized camera motion tracking to blend animated characters into moving video footage.
